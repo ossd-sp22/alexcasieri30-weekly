@@ -5,17 +5,18 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: Alex Casieri
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
-description: CSCI-UA 480 Student, Spring 2022
+description: I am a senior, studying computer and data science with a minor in web design and psychology. In my free time, I enjoy using my coding skills to create different types of projects. I was also a member of the NYU basketball team my freshman year.  
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: images/icon.png 
+
 # fallback text in case image is not served and/or for screen readers
-avatar_alt_text: Avatar
+avatar_alt_text: Alex
 
 # CUSTOMIZE
 #
@@ -25,12 +26,12 @@ avatar_alt_text: Avatar
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: alexcasieri30@gmail.com
   facebook:
   flickr:
-  github: ossd-sp22
-  instagram:
-  linkedin:
+  github: alexcasieri30
+  instagram: alex.casieri
+  linkedin: Alex Casieri
   pinterest:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -43,14 +44,14 @@ footer-links:
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://ossd-sp22.github.io/weekly"
+url: "https://ossd-sp22.github.io/alexcasieri30-weekly"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/alexcasieri30-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!

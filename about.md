@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi my name is Alex Casieri, I am a senior studying computer and data science. 
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+My more specific interests include machine learning, and even more specifically, natural language processing. My dream is to be able to use my computer/data science skills to build real-world applications. 
