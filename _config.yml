@@ -18,6 +18,8 @@ avatar: images/icon.png
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Alex
 
+excerpt_separator: <!--more-->
+
 # CUSTOMIZE
 #
 # Flags below are optional - customize them if you wish
