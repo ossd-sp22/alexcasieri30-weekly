@@ -15,7 +15,7 @@ description: I am a senior, studying computer and data science with a minor in w
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/me.jpg 
+avatar: https://github.com/ossd-sp22/alexcasieri30-weekly/blob/gh-pages/images/me.jpg
 
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Alex
